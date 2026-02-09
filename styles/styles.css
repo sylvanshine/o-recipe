@@ -1,0 +1,13 @@
+body {
+  color: white;
+  background-color: rgb(103, 131, 117);
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  margin: 0 auto;
+  width: 400px;
+}
+
+p {
+  background: blue;
+  color: red;
+}

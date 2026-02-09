@@ -1,0 +1,34 @@
+body {
+  color: white;
+  background-color: rgb(103, 131, 117);
+
+  font-family: Arial, sans-serif;
+  margin-left: 100px ;
+  margin-bottom: 16px;
+
+}
+
+h1,h3, p{
+    text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border: 5px solid black;
+}
+
+
+.content{
+
+}
+
+ul {
+    width: 200px;
+    margin: 0 auto;
+}
+
+ol{
+    margin: 0 auto;
+    width: 600px;
+}
